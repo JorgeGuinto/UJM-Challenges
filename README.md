@@ -14,3 +14,17 @@
 * 01 Interface (Player and Monster saveable)
 * 02 Inner Class (Playlist updated)
 * 03 Abstract Class (My Linked List and Tree List with nodes)
+
+## Module 10
+* 01 Java Generics (Football player)
+
+## Module 11
+* 01 Packages (My own package)
+* 02 Packages (External packages)
+* 03 Scope (Variables scope)
+
+## Module 12
+* 01 Collections (Adventure)
+* 02 Immutable Classes (Adventure II)
+* 03 Set and HashSet (Heavenly Body)
+* 04 Linked-Hash-Map (Stock Item)
