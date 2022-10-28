@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Ibai</first_name>
+	<last_name>Llanos</last_name>
+	<phone_number>123456</phone_number>
+	<notes>Lol</notes>
+</contact>
+<contact>
+	<first_name>Jorge</first_name>
+	<last_name>Guinto</last_name>
+	<phone_number>3310887050</phone_number>
+	<notes>No comments</notes>
+</contact>
+<contact>
+	<first_name>Enrique</first_name>
+	<last_name>Hernandez</last_name>
+	<phone_number>3352</phone_number>
+	<notes>Yeah</notes>
+</contact>
+<contact>
+	<first_name>Test1</first_name>
+	<last_name>Test11</last_name>
+	<phone_number>55555</phone_number>
+	<notes>Okaaaay</notes>
+</contact>
+<contact>
+	<first_name>Jaime</first_name>
+	<last_name>Altozano</last_name>
+	<phone_number>123654987</phone_number>
+	<notes>Creo que ya</notes>
+</contact>
+</contacts>
