@@ -31,3 +31,9 @@
 
 ## Module 13
 * 01 Java FX (Contacts App)
+
+## Module 15 - Sección 17
+* 01 Concurrency Threads
+
+## Module 16 - Sección 18
+* 01 Lambda Expressions
