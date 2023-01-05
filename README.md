@@ -37,3 +37,6 @@
 
 ## Module 16 - Sección 18
 * 01 Lambda Expressions
+
+## Module 17 - Sección 19
+* 01 Regular Expressions
