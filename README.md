@@ -40,3 +40,6 @@
 
 ## Module 17 - Sección 19
 * 01 Regular Expressions
+
+## Module 18 - Sección 20
+* 01 JUnit - Debugging
